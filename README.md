@@ -1,6 +1,6 @@
 # hells-janitors
 A top-down zombie shooter, complete with local cooperative multiplayer and a level editor.
-This is an old project written in C# developed in 2015 and released for free.
+This is a project from 2015 written in C# and released for free.
 
 [Trailer](https://www.youtube.com/watch?v=FMK9Qu5vMWg)
 
